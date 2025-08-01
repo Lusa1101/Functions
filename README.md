@@ -20,5 +20,5 @@ This repository serves as a personal toolbox of commonly used functions across v
 
 > _Note: This list will grow over time as I refine and expand the library._
 
-- `data_utils.py` – Data cleaning, transformation, and validation helpers.
-- `file_ops.py` – File I/O operations with safe handling and
+- `PDFFunctions.cs` – To convert to and from Lists/PDF.
+- `CSVFunctions.cs` – To convert to and from Lists/CSV.
